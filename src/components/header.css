@@ -4,7 +4,7 @@
 }
 #header {
     display: flex;
-    flex-flow: column no-wrap;
+    flex-flow: row no-wrap;
     align-items: center;
 }
 
@@ -81,7 +81,7 @@
 
 @media only screen and (max-width: 800px) {
     #header {
-        flex-direction: column;
+        flex-direction: row;
         justify-content: space-between;
     }
 
