@@ -3,9 +3,9 @@
     --col2: white;
 }
 #header {
-    
-  
-  
+    display: flex;
+    flex-flow: column no-wrap;
+    align-items: center;
 }
 
 #header-logo {

@@ -17,7 +17,8 @@ function Header() {
 
   return (
     <div id="header">
-      <a id="header-logo">
+      <div id="header-logo">
+      <a >
         <img src="logo1.png" alt="logo" />
 
         <div className={classesName[0]} onClick={callupdateclassesName}>
@@ -25,7 +26,7 @@ function Header() {
           <div className="hamburger-bar2"></div>
           <div className="hamburger-bar3"></div>
         </div>
-      </a>
+      </a></div>
 
       <div id="header-list" className={classesName[1]}>
         <ul>
