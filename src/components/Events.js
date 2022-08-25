@@ -34,16 +34,15 @@ function Event() {
           <li class="cards_item">
             <div class="card">
               <div class="card_image">
-                <img src="../eventgallery/event2.png" />
+                <img src="../eventgallery/besta.png" />
               </div>
               <div class="card_content">
-                <h2 class="card_title">Part II: Student Entrepreneurship</h2>
+                <h2 class="card_title">Legal and Ethical steps for Start-ups Involving Chemical Engineering Processes.</h2>
                 <p class="card_text">
-                  Dr. Sudeep P V, Convenor, IIC-NITC interacted with students
-                  about startups on campus: opportunities and challenges, as
-                  well as the role of the IIC in achieving it.
+                Dr. Chandra Shekar Bestha, Innovation Ambassador and Assistant Professor, Department of Chemical Engineering, gave a lecture on Legal and Ethical steps for Start-ups Involving Chemical Engineering Processes. 
+
                 </p>
-                <a href="https://drive.google.com/file/d/16VHrGNZRY3DCMiPrEZQp0yxzr2nxLFgK/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/105zCuy-Hn7xaH42DQxb0Wv6T0HyhtLHA/view?usp=sharing">
                   <button class="btn card_btn">Minutes</button>
                 </a>
               </div>

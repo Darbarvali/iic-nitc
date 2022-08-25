@@ -21,6 +21,7 @@ import {
 } from "react-icons/fc";
 
 import Fab from "./components/FAB";
+import Coordinationteam from "./components/Coordinationteam";
 
 function App() {
   const actions = [
@@ -43,6 +44,7 @@ function App() {
       <Events />
       
       <Gallery />
+      <Coordinationteam/>
       <Peopletrail />
       {/* <People /> */}
       <Expert />

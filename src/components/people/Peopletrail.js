@@ -11,37 +11,35 @@ function Peopletrail() {
       </span>
 
       <div className="wrapper">
-        <div className="membre">
-          <img src="/staff/S.KUMARAVEL.jpg" alt="" />
+      <div className="membre">
+          <img
+            src="https://i1.rgstatic.net/ii/profile.image/508396390830080-1498222553279_Q512/Chandra-Shekar-Besta.jpg"
+            alt=""
+          />
 
           <div className="info">
-            <h5 className="name">Dr.S.Kumarvel</h5>
+            <h6 className="name">Dr.Chandra Shekar B</h6>
           </div>
 
           <div className="overly left">
             <div className="middle">
-              {/* <h6 className="name">Dr.S.Kumarvel</h6> */}
-              <p className="job"> President</p>
+              {/* <h5 className="name">Dr.Chandra Shekar Besta</h5> */}
+              <p className="job">Asst. Professor, CHED</p>
               <p className="text">
-                {" "}
-                Dr.Kumarvel is the President of IIC club and Assistant Professor
-                in NIT Calicut,has published 23 research papers in SCI Journals
-                including 5 IEEE Transactions{" "}
-                {/*and four papers in
-                                IET Power Electronics, and several papers in reputed IEEE international conferences. */}
+                Dr.Chandra Shekar Besta currently works at the Department of
+                Chemical Engineering,NITC. Chandra Shekar does research in
+                Chemical Engineering and Control Systems Engineering.
               </p>
+
               <div className="social-icones">
-                <a
-                  href="https://nitc.ac.in/index.php/?url=users/view/149/9/3"
-                  className="icon"
-                >
+                <a href="https://nitc.irins.org/profile/98103" className="icon">
                   <i className="fa-solid fa-user-tie"></i>
                 </a>
-                <a href="mailto:kumaravel_s@nitc.ac.in" className="icon">
+                <a href="mailto:schandra@nitc.ac.in" className="icon">
                   <i className="fa fa-envelope" aria-hidden="true"></i>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/dr-kumaravel-sundaramoorthy-ph-d-1aba3ab7/"
+                  href="https://www.linkedin.com/in/chandra-shekar-b-922b0a47/"
                   className="icon"
                 >
                   <i className="fab fa-linkedin-in"></i>
@@ -51,73 +49,37 @@ function Peopletrail() {
           </div>
         </div>
 
-        <div class="membre">
-          <img src="/staff/1657534972155.jpg" alt="" />
-
-          <div class="info">
-            <h5 class="name">Dr.Preethi M.</h5>
-          </div>
-
-          <div class="overly left">
-            <div class="middle">
-              {/* <h6 class="name">Dr.Preethi M.</h6> */}
-              <p class="job"> TBI-Vice President</p>
-              <p class="text">
-                {" "}
-                Dr.Preethi M is working as Chief Executive Officer at Technology
-                Business Incubator, National Institute of Technology Calicut.
-              </p>
-
-              <div class="social-icones">
-                <a href="#" className="icon">
-                  <i className="fa-solid fa-user-tie"></i>
-                </a>
-
-                <a href="mailto:preethi@nitc.ac.in" class="icon">
-                  <i class="fa fa-envelope" aria-hidden="true"></i>
-                </a>
-                <a
-                  href="https://www.linkedin.com/in/preethi-manniledam-8a741811/?originalSubdomain=in"
-                  class="icon"
-                >
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="membre">
-          <img src="/staff/1657535144501.jpg" alt="" />
+      <div className="membre">
+          <img src="/staff/Vinay.jpg" alt="" />
 
           <div className="info">
-            <h6 className="name">Dr.Sudeep P.V.</h6>
+            <h5 className="name">Dr.Vinay V.Panickar</h5>
           </div>
 
           <div className="overly left">
             <div className="middle">
-              {/* <h5 className="name">Dr.Sudeep P.V.</h5> */}
-              <p className="job">Convenor</p>
+              {/* <h5 className="name">Dr.Vinay V.Panickar</h5> */}
+              <p className="job"> Asst. Professor, MED</p>
               <p className="text">
-                {" "}
-                Dr. P.V. Sudeep is working as Asst. Prof. in the ECE Department,
-                NIT Calicut, Kerala, India. He received his PhD from NIT,
-                Tiruchirappalli, Tamilnadu.
+                Dr.Vinay V. Panicker is an Associate Professor at National
+                Institute of Technology Calicut (NITC), Kerala. He has done
+                research in the area of supply chain management for his Doctoral
+                degree at NITC.
               </p>
 
               <div className="social-icones">
                 <a
-                  href="https://ece.nitc.ac.in/index.php?option=com_php&Itemid=66&uname=sudeep.pv"
+                  href="https://nitc.irins.org/profile/105419"
                   className="icon"
                 >
                   <i className="fa-solid fa-user-tie"></i>
                 </a>
 
-                <a href="mailto:sudeep.pv@nitc.ac.in" className="icon">
+                <a href="mailto:vinay@nitc.ac.in" className="icon">
                   <i className="fa fa-envelope" aria-hidden="true"></i>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/sudeep-pv-phd-860628a1/?originalSubdomain=in"
+                  href=" https://www.linkedin.com/in/vinay-panicker-5b61b484/?originalSubdomain=in"
                   className="icon"
                 >
                   <i className="fab fa-linkedin-in"></i>
@@ -237,45 +199,7 @@ function Peopletrail() {
             </div>
           </div>
         </div>
-        <div className="membre">
-          <img src="/staff/Vinay.jpg" alt="" />
-
-          <div className="info">
-            <h5 className="name">Dr.Vinay V.Panickar</h5>
-          </div>
-
-          <div className="overly left">
-            <div className="middle">
-              {/* <h5 className="name">Dr.Vinay V.Panickar</h5> */}
-              <p className="job"> Asst. Professor, MED</p>
-              <p className="text">
-                Dr.Vinay V. Panicker is an Associate Professor at National
-                Institute of Technology Calicut (NITC), Kerala. He has done
-                research in the area of supply chain management for his Doctoral
-                degree at NITC.
-              </p>
-
-              <div className="social-icones">
-                <a
-                  href="https://nitc.irins.org/profile/105419"
-                  className="icon"
-                >
-                  <i className="fa-solid fa-user-tie"></i>
-                </a>
-
-                <a href="mailto:vinay@nitc.ac.in" className="icon">
-                  <i className="fa fa-envelope" aria-hidden="true"></i>
-                </a>
-                <a
-                  href=" https://www.linkedin.com/in/vinay-panicker-5b61b484/?originalSubdomain=in"
-                  className="icon"
-                >
-                  <i className="fab fa-linkedin-in"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
+      
 
         <div className="membre">
           <div className="img">
@@ -313,79 +237,8 @@ function Peopletrail() {
           </div>
         </div>
 
-        <div className="membre">
-          <img src="/staff/DEEPTHI BENDI.jpg" alt="" />
-
-          <div className="info">
-            <h5 className="name">Dr.Deepthi Bendi</h5>
-          </div>
-
-          <div className="overly left">
-            <div className="middle">
-              {/* <h6 className="name">Dr.Deepthi Bendi</h6> */}
-              <p className="job">Asst. Professor, DAP</p>
-              <p className="text">
-                {" "}
-                Dr. Deepthi Bendi is associated with NIT Calicut since 2018. She
-                pursued Ph.D. and Masters from School of the Built Environment,
-                University of Salford, Manchester, UK and BArch.from School of
-                Planning and Architecture- JNTU, Hyderabad, India.
-              </p>
-
-              <div className="social-icones">
-                <a href="https://nitc.irins.org/profile/98093" className="icon">
-                  <i className="fa-solid fa-user-tie"></i>
-                </a>
-                <a href="mailto:deepthib@nitc.ac.in" className="icon">
-                  <i className="fa fa-envelope"></i>
-                </a>
-                <a
-                  href="https://www.linkedin.com/in/dr-deepthi-bendi-73b80120/"
-                  className="icon"
-                >
-                  <i className="fab fa-linkedin-in"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="membre">
-          <img
-            src="https://i1.rgstatic.net/ii/profile.image/508396390830080-1498222553279_Q512/Chandra-Shekar-Besta.jpg"
-            alt=""
-          />
-
-          <div className="info">
-            <h6 className="name">Dr.Chandra Shekar B</h6>
-          </div>
-
-          <div className="overly left">
-            <div className="middle">
-              {/* <h5 className="name">Dr.Chandra Shekar Besta</h5> */}
-              <p className="job">Asst. Professor, CHED</p>
-              <p className="text">
-                Dr.Chandra Shekar Besta currently works at the Department of
-                Chemical Engineering,NITC. Chandra Shekar does research in
-                Chemical Engineering and Control Systems Engineering.
-              </p>
-
-              <div className="social-icones">
-                <a href="https://nitc.irins.org/profile/98103" className="icon">
-                  <i className="fa-solid fa-user-tie"></i>
-                </a>
-                <a href="mailto:schandra@nitc.ac.in" className="icon">
-                  <i className="fa fa-envelope" aria-hidden="true"></i>
-                </a>
-                <a
-                  href="https://www.linkedin.com/in/chandra-shekar-b-922b0a47/"
-                  className="icon"
-                >
-                  <i className="fab fa-linkedin-in"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
+        
+      
 
         <div className="membre">
           <img src="/staff/RAGHU C V.jpg" alt="" />
