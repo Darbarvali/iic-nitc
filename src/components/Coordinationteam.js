@@ -45,7 +45,7 @@ function Coordinationteam() {
           <img src="/staff/ASHOK.png" alt="" />
 
           <div className="info">
-            <h5 className="name">Dr.Ashok S.</h5>
+            <h5 className="name">Prof.Ashok S.</h5>
           </div>
 
           <div className="overly left">
@@ -72,13 +72,13 @@ function Coordinationteam() {
           <img src="/staff/S.KUMARAVEL.jpg" alt="" />
 
           <div className="info">
-            <h5 className="name">Dr.S.Kumarvel</h5>
+            <h5 className="name">Dr.S.Kumaravel</h5>
           </div>
 
           <div className="overly left">
             <div className="middle">
               {/* <h6 className="name">Dr.S.Kumarvel</h6> */}
-              <p className="job"> President</p>
+              <p className="job"> President of IIC NITC</p>
               <p className="text">
                 {" "}
                 Dr.Kumarvel is the President of IIC club and Assistant Professor
@@ -118,7 +118,7 @@ function Coordinationteam() {
           <div class="overly left">
             <div class="middle">
               {/* <h6 class="name">Dr.Preethi M.</h6> */}
-              <p class="job"> TBI-Vice President</p>
+              <p class="job"> Vice President of IIC NITC</p>
               <p class="text">
                 {" "}
                 Dr.Preethi M is working as Chief Executive Officer at Technology
@@ -154,7 +154,7 @@ function Coordinationteam() {
           <div className="overly left">
             <div className="middle">
               {/* <h5 className="name">Dr.Sudeep P.V.</h5> */}
-              <p className="job">Convenor</p>
+              <p className="job">Convenor of IIC NITC</p>
               <p className="text">
                 {" "}
                 Dr. P.V. Sudeep is working as Asst. Prof. in the ECE Department,
@@ -183,6 +183,80 @@ function Coordinationteam() {
             </div>
           </div>
         </div>
+        <div className="membre">
+          <img src="/staff/SUDHEER A P.jpg" alt="" />
+
+          <div className="info">
+            <h5 className="name">Dr.Sudheer A.P.</h5>
+          </div>
+
+          <div className="overly left">
+            <div className="middle">
+              {/* <h5 className="name">Dr.Sudheer A.P.</h5> */}
+              <p className="job">Innovation Activity Coordinator IIC NITC</p>
+              <p className="text">
+                {" "}
+                Dr. Sudheer A P working as Assistant Professor,Faculty in charge
+                of RIG and Lab in charge of Mechatronics / Robotics Lab
+                ,Mechanical Engineering Department NIT Calicut
+              </p>
+
+              <div className="social-icones">
+                <a
+                  href="https://nitc.ac.in/index.php/?url=users/view/215/12/3"
+                  className="icon"
+                >
+                  <i className="fa-solid fa-user-tie"></i>
+                </a>
+
+                <a href="mailto:apsudheer@nitc.ac.in" className="icon">
+                  <i className="fa fa-envelope" aria-hidden="true"></i>
+                </a>
+                <a
+                  href="https://www.linkedin.com/in/sudheer-a-p-a7779226/"
+                  className="icon"
+                >
+                  <i className="fab fa-linkedin-in"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="membre">
+          <img src="/staff/BAIJU G NAIR.jpg" alt="" />
+
+          <div className="info">
+            <h5 className="name">Dr.Baiju G.Nair</h5>
+          </div>
+
+          <div className="overly left">
+            <div className="middle">
+              {/* <h5 className="name">Dr.Baiju G.Nair</h5> */}
+              <p className="job">IPR Activity Coordinator IIC NITC</p>
+              <p className="text">
+                Dr.Baiju is an Assistant Professor and obtained doctoral degree
+                in Bio-Nano science fusion technology ( Dr.Eng.) from BNERC,
+                Japan.
+              </p>
+
+              <div className="social-icones">
+                <a href="#" className="icon">
+                  <i className="fa-solid fa-user-tie"></i>
+                </a>
+
+                <a href="mailto:bgnair@nitc.ac.in" className="icon">
+                  <i className="fa fa-envelope" aria-hidden="true"></i>
+                </a>
+                <a
+                  href=" https://www.linkedin.com/in/dr-baiju-g-nair-4bb8ba69/?originalSubdomain=in"
+                  className="icon"
+                >
+                  <i className="fab fa-linkedin-in"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
      
      
 
@@ -199,7 +273,7 @@ function Coordinationteam() {
           <div className="overly left">
             <div className="middle">
               {/* <h6 className="name">Dr.Deepthi Bendi</h6> */}
-              <p className="job">Asst. Professor, DAP</p>
+              <p className="job">Internship Activity Coordinator of IIC NITC</p>
               <p className="text">
                 {" "}
                 Dr. Deepthi Bendi is associated with NIT Calicut since 2018. She
@@ -226,7 +300,79 @@ function Coordinationteam() {
           </div>
         </div>
       
+        <div className="membre">
+          <div className="img">
+            <img src="/staff/SUBRAMANYAM NV.jpg" alt="" className="img" />
+          </div>
+          <div className="info">
+            <h5 className="name">Dr.Subramanyan N V</h5>
+          </div>
+          <div className="overly left">
+            <div className="middle">
+              {/* <h5 className="name">Dr.Subramanyan N V</h5> */}
+              <p className="job">Startup Activity Coordinator of IIC NITC</p>
+              <p className="text">
+                Dr. Subramanyan NV is an Assistant Professor in the Department
+                of Physics, NIT Calicut. Previously, he was working as INSPIRE
+                faculty in the School of Nano Science and Technology, NIT
+                Calicut.
+              </p>
 
+              <div className="social-icones">
+                <a href="https://nitc.irins.org/profile/98141" className="icon">
+                  <i className="fa-solid fa-user-tie"></i>
+                </a>
+
+                <a href="mailto:varanakkottu@nitc.ac.in" className="icon">
+                  <i className="fa fa-envelope" aria-hidden="true"></i>
+                </a>
+                <a
+                  href="https://www.linkedin.com/in/subramanyannv/"
+                  className="icon"
+                >
+                  <i className="fab fa-linkedin-in"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+
+        <div className="membre">
+          <div className="img">
+            <img src="/staff/param.webp" alt="" className="img" />
+          </div>
+          <div className="info">
+            <h5 className="name">Dr.Parameswaran P.</h5>
+          </div>
+          <div className="overly left">
+            <div className="middle">
+              {/* <h5 className="name">Dr.Parameswaran P.</h5> */}
+              <p className="job">NIRF Coordinator of IIC NITC</p>
+              <p className="text">
+                Dr. Parameswaran Pattiyil is an Associate Professor in
+                Department of chemistry,National Institute of Technology
+                Calicut.
+              </p>
+
+              <div className="social-icones">
+                <a href="https://nitc.irins.org/profile/98110" className="icon">
+                  <i className="fa-solid fa-user-tie"></i>
+                </a>
+
+                <a href="mailto:param@nitc.ac.in" className="icon">
+                  <i className="fa fa-envelope" aria-hidden="true"></i>
+                </a>
+                <a
+                  href="https://www.linkedin.com/in/parameswaran-p-ab67b78a/?originalSubdomain=in"
+                  className="icon"
+                >
+                  <i className="fab fa-linkedin-in"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
        
 
 
